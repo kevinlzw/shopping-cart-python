@@ -1,7 +1,5 @@
-from src.model.product import Product
 from src.model.customer import Customer
 from src.model.order import Order
-from src.model.discount import Discount
 
 
 class ShoppingCart:
